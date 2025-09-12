@@ -13,7 +13,7 @@ function App() {
 
   return (
     <>
-      <h1 className='bg-green-400 text-black rounded-2xl mb-4'>tailwind test</h1>
+      <h1 className=' bg-green-400 bg text-black rounded-2xl mb-4 '>tailwind test</h1>
       <Card username="kabhi" buttontext="vist me vsdkd"/>
       <Card username="tabhi"/>
      
